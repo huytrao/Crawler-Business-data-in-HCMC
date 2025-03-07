@@ -1,0 +1,15 @@
+[project]
+name = "huytrao-crawl-business-data"
+version = "0.1.0"
+description = "this project crawl all business data informaion in HCMC and recent update continous" 
+requires-python = ">=3.11,<4"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "dnspython>= 2.7.0",
+    "fake-useragent>= 2.0.3",
+    "pymongo>=4.11.1",
+    "requests>=2.31.0",
+    "schedule>=1.2.2",
+    "trafilatura>=2.0.0",
+    "tld>=0.13; python_version<'4'",
+]

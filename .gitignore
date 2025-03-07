@@ -1,0 +1,12 @@
+# python generated files 
+__pycache__/
+# py[oc] is a file type for python
+*.py[oc]
+build/ 
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv
+.test_crawler.py
+.test_imports.py
