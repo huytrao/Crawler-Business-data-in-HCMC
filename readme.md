@@ -5,6 +5,7 @@
 This project is designed to crawl and collect business data in Ho Chi Minh City (HCMC). The crawler extracts detailed business information from web sources like tratencongty.com, processes the data through a pipeline system, and stores it in MongoDB for further analysis.
 
 ## Data Points Collected
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/652408e0-1265-433d-b323-4a0202aa6d5f)
 
 For each business, we collect the following information:
 
